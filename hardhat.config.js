@@ -27,7 +27,6 @@ module.exports = {
     }
   },
   networks: {
-    hardhat: {},
     rinkeby: {
       url: "https://rinkeby.infura.io/v3/8f8b5ed25d024c8a8b4d62b57cb9294e",
       accounts: [`a78937776443837587458185aabc34e7556fb32cbcb4ed606b3ab950ed45f6d5`]
